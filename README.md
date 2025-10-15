@@ -41,3 +41,8 @@ source ./.venv/bin/activate
 
 # Install Required Libraries
 pip install opencv-python face_recognition numpy pandas
+
+# Run the Application
+python attendance_system.py
+
+## A window showing your webcam feed will appear. The system will begin detecting and recognizing faces. To stop the program and save the attendance data, press the q key. A CSV file named attendance_YYYY-MM-DD.csv will be created in your project folder.
