@@ -22,7 +22,7 @@ Before you run this project, ensure you have the following installed on your sys
 
 Follow these steps to set up and run the project on your local machine.
 
-### Step 1: Clone the Repository
+### To Clone the Repository
 
 Clone this repository to your local machine using the following command:
 
